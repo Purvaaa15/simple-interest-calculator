@@ -16,5 +16,5 @@ Thank you for considering contributing to this project!
 
 ## Need help?
 
-If you have questions, open an Issue or email me at youremail@example.com
+If you have questions, open an Issue or email me at purvarathi15@gmail.com
 
